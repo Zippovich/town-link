@@ -1,0 +1,41 @@
+/* Navbar */
+.navbar .brand {
+	text-indent: -9999px;
+	position: relative;
+	padding: 0;
+	margin: 5px 0 0 10px;
+	width: 162px;
+	height: 40px;
+	background: url('../img/logo.png') no-repeat
+}
+.navbar .brand span {
+	display: none;
+	position: absolute;
+	bottom: 0;
+	right: 4px;
+	width: 58px;
+	height: 6px;
+	background: url('../img/logo-demo.png') no-repeat
+}
+.navbar .brand.demo span {
+	display: block;
+}
+.navbar .brand span {
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
